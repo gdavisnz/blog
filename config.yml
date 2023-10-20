@@ -1,0 +1,107 @@
+baseURL: "https://gdavisnz.github.io/blog/"
+title: Grant Davis
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Grant Davis
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Grant Davis
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: true
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Grant Davis"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/grantdavisnz/"
+    - name: github
+      url: "https://github.com/gdavisnz"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
+cover:
+    linkFullImages: true
+    hiddenInList: false
+    hiddenInSingle: false
+    responsiveImages: true
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 05
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
