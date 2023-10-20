@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Grant Davis</title>
+    <link>https://gdavisnz.github.io/blog/tags/</link>
+    <description>Recent content in Tags on Grant Davis</description>
+    <image>
+      <title>Grant Davis</title>
+      <url>https://gdavisnz.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://gdavisnz.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gdavisnz.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AVI</title>
+      <link>https://gdavisnz.github.io/blog/tags/avi/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdavisnz.github.io/blog/tags/avi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSX</title>
+      <link>https://gdavisnz.github.io/blog/tags/nsx/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdavisnz.github.io/blog/tags/nsx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VCD</title>
+      <link>https://gdavisnz.github.io/blog/tags/vcd/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdavisnz.github.io/blog/tags/vcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vmware</title>
+      <link>https://gdavisnz.github.io/blog/tags/vmware/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdavisnz.github.io/blog/tags/vmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homelab</title>
+      <link>https://gdavisnz.github.io/blog/tags/homelab/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdavisnz.github.io/blog/tags/homelab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CPoM</title>
+      <link>https://gdavisnz.github.io/blog/tags/cpom/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdavisnz.github.io/blog/tags/cpom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
