@@ -33,9 +33,9 @@ I first went through the **Ultimate AWS Certified Solutions Architect Associate 
 
 The course took me about 3 weeks to complete.
 
-After the course, I went through the **AWS Certified Solutions Architect Associate Practice Exams SAA-C03 2023 by Tutorials Dojo**. These practice exams came in various formats. Some were timed like the real exam, some allowed you to review your answers straight away once you answered a question, and some were bundled to be specific about a topic, i.e., EC2.
+After the course, I went through the **AWS Certified Solutions Architect Associate Practice Exams SAA-C03 2023 by Tutorials Dojo**. These practice exams came in various formats. Some were timed like the real exam, some allowed you to review your answers straight away once you answered a question, and some were bundled to be specific about a topic.
 
-I completed all the topic-specific exams using their attached cheat sheets. When I got questions wrong, this helped me study a specific AWS service. Then, I completed all the exams where I could review my answers straight away. These were great because they provided a very good summary afterward. Not only did they give the correct answer with a thorough explanation, but they also went through every wrong answer with an explanation of why it was wrong.
+I completed all the topic-specific exams using their attached cheat sheets. When I got questions wrong, this helped me study a specific AWS service. Then I completed all the exams where I could review my answers straight away. These were great because they provided a very good summary afterward. Not only did they give the correct answer with a thorough explanation, but they also went through every wrong answer with an explanation of why it was wrong.
 
 I then did **Practice Exams | AWS Certified Solutions Architect Associate by Stephane Maarek & Abhishek Singh**. These were 6 exams with 65 questions each. I treated these like the real exams and revisited topics when I identified any areas I was struggling with.
 
