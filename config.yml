@@ -1,6 +1,6 @@
 baseURL: "https://gdavisnz.github.io/blog/"
 title: Grant Davis
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -91,10 +91,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    #- identifier: example
+    #  name: example.org
+    #  url: https://example.org
+    #  weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
