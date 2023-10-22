@@ -17,7 +17,7 @@ cover:
 ---
 
 
-## Introduction
+## Introduction 
 
 In previous releases of Cloud Director you needed to connect via API tools like Postman to modify branding and customisation capabilites. Now VMware have added UI functionality with many more color options and and the ability to upload pictures!
 
