@@ -12,7 +12,7 @@ Author: Grant Davis
 cover:
     image: "saa-c03-cover.png" # image path/url
     alt: "My Journey towards the SAA-C03 AWS Solutions Architect Associate Certification" # alt text
-    caption: "My Journey towards the SAA-C03 AWS Solutions Architect Associate Certification" # display caption under cover
+    #caption: "My Journey towards the SAA-C03 AWS Solutions Architect Associate Certification" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
