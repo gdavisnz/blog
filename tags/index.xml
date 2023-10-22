@@ -10,7 +10,25 @@
       <link>https://gdavisnz.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gdavisnz.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gdavisnz.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS</title>
+      <link>https://gdavisnz.github.io/blog/tags/aws/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdavisnz.github.io/blog/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAA-C03</title>
+      <link>https://gdavisnz.github.io/blog/tags/saa-c03/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdavisnz.github.io/blog/tags/saa-c03/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AVI</title>
       <link>https://gdavisnz.github.io/blog/tags/avi/</link>
