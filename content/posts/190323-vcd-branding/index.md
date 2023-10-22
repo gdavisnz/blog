@@ -28,7 +28,7 @@ Here are the capabilities in the new Branding UI
 <li>Adding additional menus and editing existing menu links</li>
 </ul>
 
-<br>
+<br> 
 
 -------------
 
