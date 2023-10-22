@@ -3,7 +3,6 @@ title: "Deploying NSX-T 3.2 in my HomeLab Environment"
 date: 2023-04-11
 draft: false
 tags: ["vmware", "homelab", "NSX"]
-slug: "arch-linux-installation-challenges"
 categories: ["Linux"]
 showToc: true
 TocOpen: true
@@ -20,7 +19,7 @@ summary: "Installation of NSX-T in my HOMELAB"
 cover:
     image: "cover.png" # image path/url
     alt: "Deploying NSX-T 3.2 in my HomeLab Environment" # alt text
-    caption: "Deploying NSX-T 3.2 in my HomeLab Environment" # display caption under cover
+    #caption: "Deploying NSX-T 3.2 in my HomeLab Environment" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 

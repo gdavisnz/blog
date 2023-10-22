@@ -2,7 +2,7 @@
 title: "Centralized Point of Management (CPoM) in Cloud Director 10.4.1"
 date: 2023-03-25
 draft: false
-description: "Centralized Point of Management (CPoM) in Cloud Director 10.4.1"
+#description: "Cloud Director Centralized Point of Management (CPoM) is a UI Plugin that enables providers to present dedicated vCenter instances to their customers."
 showDate : true
 showDateUpdated : false
 toc: true
@@ -12,7 +12,7 @@ Author: Grant Davis
 cover:
     image: "cover-vcd.png" # image path/url
     alt: "Centralized Point of Management (CPoM) in Cloud Director 10.4.1" # alt text
-    caption: "Centralized Point of Management (CPoM) in Cloud Director 10.4.1" # display caption under cover
+    #caption: "Centralized Point of Management (CPoM) in Cloud Director 10.4.1" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---

@@ -2,7 +2,7 @@
 title: "Adding NSX Networking to a VCD Tenancy using IP Spaces"
 date: 2023-05-04
 draft: false
-description: "Adding NSX Networking to a VCD Tenancy using IP Spaces"
+#description: "Adding NSX Networking to a VCD Tenancy using IP Spaces"
 showDate : true
 showDateUpdated : false
 toc: true
@@ -12,7 +12,7 @@ Author: Grant Davis
 cover:
     image: "nsx-vcd-cover.png" # image path/url
     alt: "Adding NSX Networking to a VCD Tenancy using IP Spaces" # alt text
-    caption: "Adding NSX Networking to a VCD Tenancy using IP Spaces" # display caption under cover
+    #caption: "Adding NSX Networking to a VCD Tenancy using IP Spaces" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---

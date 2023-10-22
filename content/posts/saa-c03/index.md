@@ -2,12 +2,12 @@
 title: "My Journey towards the SAA-C03 AWS Solutions Architect Associate Certification"
 date: 2023-10-20
 draft: false
-description: "My Journey towards the SAA-C03 AWS Solutions Architect Associate Certification"
+#description: "My Journey towards the SAA-C03 AWS Solutions Architect Associate Certification"
 showDate : true
 showDateUpdated : false
 toc: true
 Tags: ["AWS", "SAA-C03"]
-summary: "My Journey towards the SAA-C03 AWS Solutions Architect Associate Certification"
+summary: "I'm a AWS Solutions Architect Associate!  Here is how I did it."
 Author: Grant Davis
 cover:
     image: "saa-c03-cover.png" # image path/url

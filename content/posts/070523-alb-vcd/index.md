@@ -2,17 +2,17 @@
 title: "LBaaS with NSX Advanced Load Balancer and Cloud Director"
 date: 2023-05-07
 draft: false
-description: "LBaaS with NSX Advanced Load Balancer and Cloud Director"
+#description: "LBaaS with NSX Advanced Load Balancer and Cloud Director"
 showDate : true
 showDateUpdated : false
 toc: true
 Tags: ["vmware", "AVI", "NSX","VCD"]
-summary: "LBaaS with NSX Advanced Load Balancer and Cloud Director"
+summary: "NSX Advanced Load Balancer (ALB) is a software-based application delivery controller that provides  load balancing capabilities for applications deployed in data centers and public clouds. It offers a variety of features such as load balancing, SSL/TLS offloading, content switching, application acceleration, and advanced security."
 Author: Grant Davis
 cover:
     image: "nsx-vcd-cover.png" # image path/url
     alt: "LBaaS with NSX Advanced Load Balancer and Cloud Director" # alt text
-    caption: "LBaaS with NSX Advanced Load Balancer and Cloud Director" # display caption under cover
+    #caption: "LBaaS with NSX Advanced Load Balancer and Cloud Director" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---

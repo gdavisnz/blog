@@ -2,7 +2,7 @@
 title: "New Branding Experience in Cloud Director 10.4.1"
 date: 2023-03-19
 draft: false
-description: "New Branding Experience in Cloud Director 10.4.1"
+#description: "New Branding Experience in Cloud Director 10.4.1"
 showDate : true
 showDateUpdated : false
 toc: true
@@ -11,7 +11,7 @@ summary: "With vCD 10.4.1, branding your cloud services has never been easier. L
 cover:
     image: "cover-vcd.png" # image path/url
     alt: "New Branding Experience in Cloud Director 10.4.1" # alt text
-    caption: "New Branding Experience in Cloud Director 10.4.1" # display caption under cover
+    #caption: "New Branding Experience in Cloud Director 10.4.1" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
