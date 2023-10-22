@@ -17,7 +17,7 @@
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://gdavisnz.github.io/blog/posts/070523-alb-vcd/</guid>
-      <description>LBaaS with NSX Advanced Load Balancer and Cloud Director</description>
+      <description>NSX Advanced Load Balancer (ALB) is a software-based application delivery controller that provides  load balancing capabilities for applications deployed in data centers and public clouds. It offers a variety of features such as load balancing, SSL/TLS offloading, content switching, application acceleration, and advanced security.</description>
     </item>
     
   </channel>

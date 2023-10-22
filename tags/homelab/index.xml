@@ -13,10 +13,10 @@
     <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gdavisnz.github.io/blog/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deploying NSX-T 3.2 in my HomeLab Environment</title>
-      <link>https://gdavisnz.github.io/blog/posts/arch-linux-installation-challenges/</link>
+      <link>https://gdavisnz.github.io/blog/posts/110423-nsx-lab-part1/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/posts/arch-linux-installation-challenges/</guid>
+      <guid>https://gdavisnz.github.io/blog/posts/110423-nsx-lab-part1/</guid>
       <description>Installation of NSX-T in my HOMELAB</description>
     </item>
     
