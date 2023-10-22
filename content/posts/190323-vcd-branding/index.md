@@ -138,8 +138,3 @@ I'd love to see other themes if anyone else has had a go at this so please get i
 
 
 
-<div class="views">
-    <span class="views">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=gsphere-190323{{ .Permalink }}" alt=""/>
-    </span>
-</div>

@@ -199,8 +199,3 @@ And there you have it! Customers can have all their dedicated resources in the o
 ![Figure 17: Final UI in the Tenant Portal](17-final.png) 
 
 
-<div class="views">
-    <span class="views">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=gsphere-260323{{ .Permalink }}" alt=""/>
-    </span>
-</div>
