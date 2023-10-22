@@ -73,7 +73,7 @@ Developer Associate: I've been told that if you pass one Associate Exam, you are
 
 [Amazon RDS FAQs](https://aws.amazon.com/rds/faqs/?saa=sec&sec=prep)
 
-[Amazon SQS FAQs](https://aws.amazon.com/sqs/faqs/?saa=sec&sec=prep)
+[Amazon SQS FAQs](https://aws.amazon.com/sqs/faqs/?saa=sec&sec=prep) 
 
 
 [AWS Well-Architected and the Six Pillars Whitepapers](https://aws.amazon.com/architecture/well-architected/?saa=sec&sec=prep&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
