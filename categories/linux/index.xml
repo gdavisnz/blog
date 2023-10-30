@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on Grant Davis</title>
-    <link>https://http://blog.grantdavis.me/categories/linux/</link>
+    <link>https://blog.grantdavis.me/categories/linux/</link>
     <description>Recent content in Linux on Grant Davis</description>
     <image>
       <title>Grant Davis</title>
-      <url>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://http://blog.grantdavis.me/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.grantdavis.me/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deploying NSX-T 3.2 in my HomeLab Environment</title>
-      <link>https://http://blog.grantdavis.me/posts/110423-nsx-lab-part1/</link>
+      <link>https://blog.grantdavis.me/posts/110423-nsx-lab-part1/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://http://blog.grantdavis.me/posts/110423-nsx-lab-part1/</guid>
+      <guid>https://blog.grantdavis.me/posts/110423-nsx-lab-part1/</guid>
       <description>Installation of NSX-T in my HOMELAB</description>
     </item>
     

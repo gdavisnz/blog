@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>VCD on Grant Davis</title>
-    <link>https://http://blog.grantdavis.me/tags/vcd/</link>
+    <link>https://blog.grantdavis.me/tags/vcd/</link>
     <description>Recent content in VCD on Grant Davis</description>
     <image>
       <title>Grant Davis</title>
-      <url>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://http://blog.grantdavis.me/tags/vcd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.grantdavis.me/tags/vcd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LBaaS with NSX Advanced Load Balancer and Cloud Director</title>
-      <link>https://http://blog.grantdavis.me/posts/070523-alb-vcd/</link>
+      <link>https://blog.grantdavis.me/posts/070523-alb-vcd/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://http://blog.grantdavis.me/posts/070523-alb-vcd/</guid>
+      <guid>https://blog.grantdavis.me/posts/070523-alb-vcd/</guid>
       <description>NSX Advanced Load Balancer (ALB) is a software-based application delivery controller that provides  load balancing capabilities for applications deployed in data centers and public clouds. It offers a variety of features such as load balancing, SSL/TLS offloading, content switching, application acceleration, and advanced security.</description>
     </item>
     
     <item>
       <title>Adding NSX Networking to a VCD Tenancy using IP Spaces</title>
-      <link>https://http://blog.grantdavis.me/posts/040523-nsx-in-vcd/</link>
+      <link>https://blog.grantdavis.me/posts/040523-nsx-in-vcd/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://http://blog.grantdavis.me/posts/040523-nsx-in-vcd/</guid>
+      <guid>https://blog.grantdavis.me/posts/040523-nsx-in-vcd/</guid>
       <description>Adding NSX Networking to a VCD Tenancy utilizing a Private Provider Gateway and Private IP Spaces</description>
     </item>
     
     <item>
       <title>Centralized Point of Management (CPoM) in Cloud Director 10.4.1</title>
-      <link>https://http://blog.grantdavis.me/posts/260323-vcd-cpom/</link>
+      <link>https://blog.grantdavis.me/posts/260323-vcd-cpom/</link>
       <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://http://blog.grantdavis.me/posts/260323-vcd-cpom/</guid>
+      <guid>https://blog.grantdavis.me/posts/260323-vcd-cpom/</guid>
       <description>Cloud Director Centralized Point of Management (CPoM) is a UI Plugin that enables providers to present dedicated vCenter instances to their customers.</description>
     </item>
     
     <item>
       <title>New Branding Experience in Cloud Director 10.4.1</title>
-      <link>https://http://blog.grantdavis.me/posts/190323-vcd-branding/</link>
+      <link>https://blog.grantdavis.me/posts/190323-vcd-branding/</link>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://http://blog.grantdavis.me/posts/190323-vcd-branding/</guid>
+      <guid>https://blog.grantdavis.me/posts/190323-vcd-branding/</guid>
       <description>With vCD 10.4.1, branding your cloud services has never been easier. Learn about the new capabilities for creating and customizing custom themes in this post.</description>
     </item>
     

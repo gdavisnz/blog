@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SAA-C03 on Grant Davis</title>
-    <link>https://http://blog.grantdavis.me/tags/saa-c03/</link>
+    <link>https://blog.grantdavis.me/tags/saa-c03/</link>
     <description>Recent content in SAA-C03 on Grant Davis</description>
     <image>
       <title>Grant Davis</title>
-      <url>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://http://blog.grantdavis.me/tags/saa-c03/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.grantdavis.me/tags/saa-c03/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Journey towards the SAA-C03 AWS Solutions Architect Associate Certification</title>
-      <link>https://http://blog.grantdavis.me/posts/saa-c03/</link>
+      <link>https://blog.grantdavis.me/posts/saa-c03/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://http://blog.grantdavis.me/posts/saa-c03/</guid>
+      <guid>https://blog.grantdavis.me/posts/saa-c03/</guid>
       <description>I&amp;rsquo;m a AWS Solutions Architect Associate!  Here is how I did it.</description>
     </item>
     
