@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>NSX on Grant Davis</title>
-    <link>https://gdavisnz.github.io/blog/tags/nsx/</link>
+    <link>https://http://blog.grantdavis.me/tags/nsx/</link>
     <description>Recent content in NSX on Grant Davis</description>
     <image>
       <title>Grant Davis</title>
-      <url>https://gdavisnz.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://gdavisnz.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gdavisnz.github.io/blog/tags/nsx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://http://blog.grantdavis.me/tags/nsx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LBaaS with NSX Advanced Load Balancer and Cloud Director</title>
-      <link>https://gdavisnz.github.io/blog/posts/070523-alb-vcd/</link>
+      <link>https://http://blog.grantdavis.me/posts/070523-alb-vcd/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/posts/070523-alb-vcd/</guid>
+      <guid>https://http://blog.grantdavis.me/posts/070523-alb-vcd/</guid>
       <description>NSX Advanced Load Balancer (ALB) is a software-based application delivery controller that provides  load balancing capabilities for applications deployed in data centers and public clouds. It offers a variety of features such as load balancing, SSL/TLS offloading, content switching, application acceleration, and advanced security.</description>
     </item>
     
     <item>
       <title>Adding NSX Networking to a VCD Tenancy using IP Spaces</title>
-      <link>https://gdavisnz.github.io/blog/posts/040523-nsx-in-vcd/</link>
+      <link>https://http://blog.grantdavis.me/posts/040523-nsx-in-vcd/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/posts/040523-nsx-in-vcd/</guid>
+      <guid>https://http://blog.grantdavis.me/posts/040523-nsx-in-vcd/</guid>
       <description>Adding NSX Networking to a VCD Tenancy utilizing a Private Provider Gateway and Private IP Spaces</description>
     </item>
     
     <item>
       <title>Deploying NSX-T 3.2 in my HomeLab Environment</title>
-      <link>https://gdavisnz.github.io/blog/posts/110423-nsx-lab-part1/</link>
+      <link>https://http://blog.grantdavis.me/posts/110423-nsx-lab-part1/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/posts/110423-nsx-lab-part1/</guid>
+      <guid>https://http://blog.grantdavis.me/posts/110423-nsx-lab-part1/</guid>
       <description>Installation of NSX-T in my HOMELAB</description>
     </item>
     

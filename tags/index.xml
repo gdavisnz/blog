@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Grant Davis</title>
-    <link>https://gdavisnz.github.io/blog/tags/</link>
+    <link>https://http://blog.grantdavis.me/tags/</link>
     <description>Recent content in Tags on Grant Davis</description>
     <image>
       <title>Grant Davis</title>
-      <url>https://gdavisnz.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://gdavisnz.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gdavisnz.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://http://blog.grantdavis.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS</title>
-      <link>https://gdavisnz.github.io/blog/tags/aws/</link>
+      <link>https://http://blog.grantdavis.me/tags/aws/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/tags/aws/</guid>
+      <guid>https://http://blog.grantdavis.me/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SAA-C03</title>
-      <link>https://gdavisnz.github.io/blog/tags/saa-c03/</link>
+      <link>https://http://blog.grantdavis.me/tags/saa-c03/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/tags/saa-c03/</guid>
+      <guid>https://http://blog.grantdavis.me/tags/saa-c03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AVI</title>
-      <link>https://gdavisnz.github.io/blog/tags/avi/</link>
+      <link>https://http://blog.grantdavis.me/tags/avi/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/tags/avi/</guid>
+      <guid>https://http://blog.grantdavis.me/tags/avi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NSX</title>
-      <link>https://gdavisnz.github.io/blog/tags/nsx/</link>
+      <link>https://http://blog.grantdavis.me/tags/nsx/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/tags/nsx/</guid>
+      <guid>https://http://blog.grantdavis.me/tags/nsx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VCD</title>
-      <link>https://gdavisnz.github.io/blog/tags/vcd/</link>
+      <link>https://http://blog.grantdavis.me/tags/vcd/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/tags/vcd/</guid>
+      <guid>https://http://blog.grantdavis.me/tags/vcd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vmware</title>
-      <link>https://gdavisnz.github.io/blog/tags/vmware/</link>
+      <link>https://http://blog.grantdavis.me/tags/vmware/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/tags/vmware/</guid>
+      <guid>https://http://blog.grantdavis.me/tags/vmware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>homelab</title>
-      <link>https://gdavisnz.github.io/blog/tags/homelab/</link>
+      <link>https://http://blog.grantdavis.me/tags/homelab/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/tags/homelab/</guid>
+      <guid>https://http://blog.grantdavis.me/tags/homelab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CPoM</title>
-      <link>https://gdavisnz.github.io/blog/tags/cpom/</link>
+      <link>https://http://blog.grantdavis.me/tags/cpom/</link>
       <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/tags/cpom/</guid>
+      <guid>https://http://blog.grantdavis.me/tags/cpom/</guid>
       <description></description>
     </item>
     

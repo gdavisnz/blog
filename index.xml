@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Grant Davis</title>
-    <link>https://gdavisnz.github.io/blog/</link>
+    <link>https://http://blog.grantdavis.me/</link>
     <description>Recent content on Grant Davis</description>
     <image>
       <title>Grant Davis</title>
-      <url>https://gdavisnz.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://gdavisnz.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://http:/blog.grantdavis.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gdavisnz.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://http://blog.grantdavis.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Journey towards the SAA-C03 AWS Solutions Architect Associate Certification</title>
-      <link>https://gdavisnz.github.io/blog/posts/saa-c03/</link>
+      <link>https://http://blog.grantdavis.me/posts/saa-c03/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/posts/saa-c03/</guid>
+      <guid>https://http://blog.grantdavis.me/posts/saa-c03/</guid>
       <description>I&amp;rsquo;m a AWS Solutions Architect Associate!  Here is how I did it.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://gdavisnz.github.io/blog/about/</link>
+      <link>https://http://blog.grantdavis.me/about/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/about/</guid>
+      <guid>https://http://blog.grantdavis.me/about/</guid>
       <description>I am a solution architect for a cloud service provider in New Zealand, I have been passionate about all things tech for 20 plus years now. I am interested in all things VMware, cloud, DevOps, and I also enjoy a spot of coding.
 The reason for starting this blog is to keep my skills up to date and hopefully find opportunities to tinker in my home lab.
 In my spare time, I&amp;rsquo;m a huge video game nerd and enjoy spending time with my partner and daughter.</description>
@@ -33,46 +33,46 @@ In my spare time, I&amp;rsquo;m a huge video game nerd and enjoy spending time w
     
     <item>
       <title>LBaaS with NSX Advanced Load Balancer and Cloud Director</title>
-      <link>https://gdavisnz.github.io/blog/posts/070523-alb-vcd/</link>
+      <link>https://http://blog.grantdavis.me/posts/070523-alb-vcd/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/posts/070523-alb-vcd/</guid>
+      <guid>https://http://blog.grantdavis.me/posts/070523-alb-vcd/</guid>
       <description>NSX Advanced Load Balancer (ALB) is a software-based application delivery controller that provides  load balancing capabilities for applications deployed in data centers and public clouds. It offers a variety of features such as load balancing, SSL/TLS offloading, content switching, application acceleration, and advanced security.</description>
     </item>
     
     <item>
       <title>Adding NSX Networking to a VCD Tenancy using IP Spaces</title>
-      <link>https://gdavisnz.github.io/blog/posts/040523-nsx-in-vcd/</link>
+      <link>https://http://blog.grantdavis.me/posts/040523-nsx-in-vcd/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/posts/040523-nsx-in-vcd/</guid>
+      <guid>https://http://blog.grantdavis.me/posts/040523-nsx-in-vcd/</guid>
       <description>Adding NSX Networking to a VCD Tenancy utilizing a Private Provider Gateway and Private IP Spaces</description>
     </item>
     
     <item>
       <title>Deploying NSX-T 3.2 in my HomeLab Environment</title>
-      <link>https://gdavisnz.github.io/blog/posts/110423-nsx-lab-part1/</link>
+      <link>https://http://blog.grantdavis.me/posts/110423-nsx-lab-part1/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/posts/110423-nsx-lab-part1/</guid>
+      <guid>https://http://blog.grantdavis.me/posts/110423-nsx-lab-part1/</guid>
       <description>Installation of NSX-T in my HOMELAB</description>
     </item>
     
     <item>
       <title>Centralized Point of Management (CPoM) in Cloud Director 10.4.1</title>
-      <link>https://gdavisnz.github.io/blog/posts/260323-vcd-cpom/</link>
+      <link>https://http://blog.grantdavis.me/posts/260323-vcd-cpom/</link>
       <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/posts/260323-vcd-cpom/</guid>
+      <guid>https://http://blog.grantdavis.me/posts/260323-vcd-cpom/</guid>
       <description>Cloud Director Centralized Point of Management (CPoM) is a UI Plugin that enables providers to present dedicated vCenter instances to their customers.</description>
     </item>
     
     <item>
       <title>New Branding Experience in Cloud Director 10.4.1</title>
-      <link>https://gdavisnz.github.io/blog/posts/190323-vcd-branding/</link>
+      <link>https://http://blog.grantdavis.me/posts/190323-vcd-branding/</link>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gdavisnz.github.io/blog/posts/190323-vcd-branding/</guid>
+      <guid>https://http://blog.grantdavis.me/posts/190323-vcd-branding/</guid>
       <description>With vCD 10.4.1, branding your cloud services has never been easier. Learn about the new capabilities for creating and customizing custom themes in this post.</description>
     </item>
     
